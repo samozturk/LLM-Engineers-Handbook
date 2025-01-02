@@ -1,3 +1,6 @@
+# env file
+*.env
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -175,3 +178,5 @@ run_ids.txt
 # Virtual environments
 *_venv
 *_myenv
+
+.codegpt
